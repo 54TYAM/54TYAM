@@ -39,8 +39,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Software Develop
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=5ATYAM&theme=tokyonight" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5ATYAM&theme=tokyonight" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ATYAM&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5ATYAM&theme=tokyonight" />
 </p>
 
 ---
