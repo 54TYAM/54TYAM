@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 ## 📂 Featured Projects
 
-- [🔧 Project 1](link-to-project) – Short description of what it does and why it’s cool.
-- [🌐 Project 2](link-to-project) – Brief explanation of the stack or idea.
-- [📊 Project 3](link-to-project) – Insight into what you learned while building this.
+- 🔧 MediCare (Online Health Record Management System) – A web-based system that allows users to securely store, manage, and access medical records anytime. It improves healthcare accessibility and reduces paperwork through a centralized digital platform.
+- 🌐 ResumeCraft – Digital Resume Builder – A user-friendly web application that helps users create professional resumes quickly using customizable templates. Built using modern web technologies to simplify resume creation.
+- 📊 ShopEase (E-commerce Website) – An online shopping platform that enables users to browse products, add items to cart, and place orders. Helped me understand frontend-backend integration, user experience design, and database management.
 
 ---
 
