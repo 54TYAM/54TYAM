@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Software Develop
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=5ATYAM&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ---
