@@ -1,16 +1,16 @@
 # 👋 Hi there, I'm Satyam Yadav!
 
-Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Software Developer, Cloud Enthusiast, Data Scientist] with a knack for building things that solve real-world problems. I love writing clean, efficient code and am always eager to learn new technologies.
+Welcome to my GitHub profile! I'm a passionate Software Developer with a knack for building things that solve real-world problems. I love writing clean, efficient code and am always eager to learn new technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: [Your current project or focus]
-- 🌱 Learning: [Current topics you're learning, e.g. Cloud Computing, Spring Boot, etc.]
+- 🔭 Currently working on: Current Projects
+- 🌱 Learning: Cloud Computing, Spring Boot, etc...
 - 💬 Ask me about: Java, Cloud Computing, System Design, GitHub Actions
-- 📫 How to reach me: [Your email] | [LinkedIn](your-linkedin-url)
-- ⚡ Fun fact: [Something fun or quirky about you]
+- 📫 How to reach me: sy415801@gmail.com | [LinkedIn](https://www.linkedin.com/in/5atyam)
+- ⚡ Fun fact: 🤑🤑🤑🤑
 
 ---
 
@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm a passionate [Your Role, e.g. Software Develop
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)</a>
-<a href="mailto:your.email@example.com" target="_blank">![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/5atyam" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)</a>
+<a href="mailto:sy415801@gmail.com" target="_blank">![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://your-portfolio.com" target="_blank">![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)</a>
 
 ---
