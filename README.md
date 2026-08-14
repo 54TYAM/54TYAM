@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 <a href="https://www.linkedin.com/in/5atyam" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)</a>
 <a href="mailto:sy415801@gmail.com" target="_blank">![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)</a>
-<a href="https://your-portfolio.com" target="_blank">![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)</a>
+<a href="https://satyam-devfolio-vercel.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github)</a>
 
 ---
 
